@@ -1,4 +1,4 @@
-# Q Learning Algorithm
+# <p align="center">Q Learning Algorithm</p>
 
 ## AIM
 To develop a Python program to find the optimal policy for the given RL environment using Q-Learning and compare the state values with the Monte Carlo method.
